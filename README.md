@@ -13,4 +13,4 @@
 
 ![RUK)ZJ4CFSB)XX{@X7T}`69](https://github.com/ln172/easier_renderer_by_python/assets/101444324/67864af9-edbf-44c3-9390-69488715f7c4)
 
-代码文件主要由四部分组成，使用numpy（矩阵运算），opencv（画点，显示照片），pygame（将tga文件转成jpg文件），从划线开始，到渲染出一个3d模型。
+代码文件主要由四部分组成，使用numpy（矩阵运算），opencv（画点，显示照片），pygame（将tga文件转成jpg文件），从画线开始，到渲染出一个3d模型。
